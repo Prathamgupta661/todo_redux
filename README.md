@@ -12,7 +12,7 @@ This project is a To-Do application built with React, Vite, and Redux. It includ
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/todo_redux.git
+    git clone https://github.com/Prathamgupta661/todo_redux.git
     cd todo_redux
     ```
 

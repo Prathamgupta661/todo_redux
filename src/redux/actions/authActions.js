@@ -1,5 +1,5 @@
 export const login = () => dispatch => {
-    // Simulate login process
+    // login
     dispatch({ type: 'LOGIN_SUCCESS' });
   };
   

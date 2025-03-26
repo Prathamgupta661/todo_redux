@@ -29,7 +29,6 @@ const TaskList = () => {
                 </Typography>
                 {task.text.toLowerCase().includes('outdoor') && weather.hourly && (
                   <Typography color="text.secondary">
-                    {console.log(weather)}
                     Current Temperature: {weather.hourly.temperature_2m[0]}°C
                   </Typography>
                 )}
